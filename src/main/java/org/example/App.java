@@ -15,5 +15,6 @@ public class App
         System.out.println( "master" );
         System.out.println( "hot-fix test" );
         System.out.println( "push github test" );
+        System.out.println( "pull  test" );
     }
 }
